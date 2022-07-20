@@ -1,0 +1,57 @@
+
+.post__container{
+  border: #282c34 1px solid;
+
+      .post__item {
+        border: #61dafb 1px solid;
+        padding: 10px;
+        margin: 10px;
+
+        display:flex;
+        flex-wrap:nowrap;
+        justify-content:space-between;
+        align-content:center;
+       }
+
+    .post__title{
+      margin-right: 10px;
+
+    }
+
+    .post__remove {
+      color: #61dafb;
+      cursor:pointer;
+
+    }
+
+    .post__add{
+      display:flex;
+      flex-wrap:nowrap;
+      justify-content:center;
+      align-items:center;
+
+      margin: 10px;
+
+    }
+
+    .post__remove button {
+      background-color: #a0b2d2;
+      color: #282c34;
+      border:none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor:pointer;
+
+    }
+
+    .post__add button {
+      background-color: #17ef6d;
+      color: #282c34;
+      border:none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor:pointer;
+
+    }
+
+  }

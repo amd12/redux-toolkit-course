@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "onePost",
+      "body": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "two post",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server 3",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "testRedux",
+      "body": "testNew"
+    },
+    {
+      "title": "threePost",
+      "body": "",
+      "id": 10
+    },
+    {
+      "title": "fourPost",
+      "body": "newPost",
+      "id": 11
+    },
+    {
+      "title": "treePost",
+      "body": "44",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
